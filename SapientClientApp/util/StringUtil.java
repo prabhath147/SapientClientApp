@@ -1,1 +1,1 @@
-System.out.print("A Test")
+System.out.print("B Test")
