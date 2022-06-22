@@ -1,1 +1,1 @@
-System.out.print("B")
+System.out.print("B user 5")
