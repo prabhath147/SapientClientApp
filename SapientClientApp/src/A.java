@@ -1,1 +1,1 @@
-System.out.print("hi")
+System.out.print("good")
